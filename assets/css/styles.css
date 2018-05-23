@@ -1,0 +1,82 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+	
+	text-align: center;
+}
+
+#container {
+	padding: 10% 0;
+    width:500px;
+	margin: 50px auto;
+}
+
+#subcontainer {
+	position: relative;
+	top: 15%;
+}
+
+#subcontainer h2 {
+	font-family: 'Chewy', cursive;
+	font-size: 40px;
+	color:red;
+}
+
+#subcontainer h3 {
+	font-family: 'Chewy', cursive;
+	color: red;
+	font-size: 40px;
+}
+
+h1 {
+	font-family: 'Chewy', cursive;
+	font-size: 100px;
+	font-weight: bold;
+	color: navy;
+	padding: 10px 0px 10px 0px;
+	margin: 0px 0px 50px 0px;
+}
+
+button {
+	font-family: 'Chewy', cursive;
+    display: block;
+    width: 200px;
+    height: 80px;
+    margin: 80px auto 0 auto;
+    cursor: pointer;
+    background: red;
+    font-size: 45px;;
+    color: gold;
+}
+
+h2 {
+	font-size: 50px;
+	margin-bottom: 35px
+}
+
+h3 {
+	font-size: 35px;
+	margin-bottom: 20px;
+}
+
+#start {
+	margin-top: 10%;
+	border: 2px solid gold;
+	background: navy;
+}
+
+#done {
+	margin-top: 10%;
+	border: 2px solid red;
+	background:navy;
+}
+
+#play-area h2 {
+	margin-top: 50px;
+}
+
+body {background-color:gold;
+
+}
